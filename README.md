@@ -3,7 +3,7 @@ Image Generation Application made for directed studies project: https://www.yout
 
 ## Features
 - img2img generation using prompt specification
-- range selection for denoising strength and CFG scale using sliders
+- range selection for denoising (strength) and CFG scale (guidance) using sliders
 - resampling of denoising strength and CFG scale parameters by selecting 2 images 
 
 ## Setup
